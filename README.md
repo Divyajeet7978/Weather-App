@@ -39,7 +39,7 @@ Meteora adapts beautifully to any device:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/meteora-weather.git
+   git clone https://github.com/Divyajeet7978/Weather-App/
    cd meteora-weather
    ```
 
